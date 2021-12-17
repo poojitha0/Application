@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="settings_title" />
+    <string name="name_label" />
+    <string name="name_hint" />
+    <string name="dob_label" />
+    <string name="email_label" />
+    <string name="email_hint" />
+    <string name="save" />
+    <string name="revert" />
+</resources>
